@@ -6,9 +6,13 @@
 
 Меня зовут Илья, я разработчик в компании МТС-Банк. Работаю на платформе 1С, в свободное время познаю веб-разработку на Python, хочу перейти в эту сферу. Я очень люблю учиться, много работаю и постоянно узнаю новое о технологиях.
 
-### &#x1f4c8; Статистика Github
+### &#x1f4c8; Статистика
 
 ![Borovkov (ffff00-korj) Ilya GitHub stats](https://github-readme-stats.vercel.app/api?username=ffff00-korj&show_icons=true&theme=dark)
+![](https://leetcard.jacoblin.cool/ffff00-korj?border=2&animation=false&width=500&height=194&font=Fira%20Mono)
+
+### ⚡️ Языки
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffff00-korj&hide_progress=true&theme=dark)
 
 ### 💼 Умения
