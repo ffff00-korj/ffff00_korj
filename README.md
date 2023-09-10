@@ -9,7 +9,7 @@
 ### &#x1f4c8; Статистика
 
 ![Borovkov (ffff00-korj) Ilya GitHub stats](https://github-readme-stats.vercel.app/api?username=ffff00-korj&show_icons=true&theme=dark)
-![](https://leetcard.jacoblin.cool/ffff00-korj?border=2&animation=false&width=500&height=194&font=Fira%20Mono)
+![](https://leetcard.jacoblin.cool/ffff00-korj?border=2&animation=false&width=470&height=194&font=Fira%20Mono)
 
 ### ⚡️ Языки
 
