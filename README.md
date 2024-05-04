@@ -1,7 +1,6 @@
 ### Привет! 👋 
 
 ![Visits Badge](https://komarev.com/ghpvc/?username=ffff00-korj&label=Profile%20views&color=0e75b6&style=flat)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/CoRGXeS?t=lqCJZCjhWRRqe-61AZq9uw&s=35)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/%D0%B8%D0%BB%D1%8C%D1%8F-%D0%B1%D0%BE%D1%80%D0%BE%D0%B2%D0%BA%D0%BE%D0%B2-3940b525b/)
 
 Меня зовут Илья, я разработчик в компании OZON Tech. В свободное время познаю компьютеные науки. Я очень люблю учиться, много работаю и постоянно узнаю новое о технологиях.
@@ -18,8 +17,8 @@
 ### 💼 Умения
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Django_Rest_Framework-informational?style=flat&logo=django&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=4AB197)
@@ -33,7 +32,6 @@
 ![](https://img.shields.io/badge/Style-Isort-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 
 ![](https://img.shields.io/badge/Test-Pytest-informational?style=flat&logo=pytest&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Unittest-informational?style=flat&logo=unicode&logoColor=white&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
