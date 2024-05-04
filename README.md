@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/CoRGXeS?t=lqCJZCjhWRRqe-61AZq9uw&s=35)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/%D0%B8%D0%BB%D1%8C%D1%8F-%D0%B1%D0%BE%D1%80%D0%BE%D0%B2%D0%BA%D0%BE%D0%B2-3940b525b/)
 
-Меня зовут Илья, я разработчик в компании OZON Tech. Работаю на платформе 1С, в свободное время познаю компьютеные науки. Я очень люблю учиться, много работаю и постоянно узнаю новое о технологиях.
+Меня зовут Илья, я разработчик в компании OZON Tech. В свободное время познаю компьютеные науки. Я очень люблю учиться, много работаю и постоянно узнаю новое о технологиях.
 
 ### &#x1f4c8; Статистика
 
